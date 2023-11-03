@@ -42,4 +42,6 @@ Raportul generat in data x arata rularea a 10 test caseuri dintre care 9 passed 
 
 ![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20report%20adding%20a%20new%20order%20manually2.png)
 
+### 3.6 Test case results
+[tesx sau test case results](https://github.com/anettabako91/ProiectTestareManuala/blob/main/TES-46.pdf)
 
