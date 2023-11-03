@@ -45,3 +45,10 @@ Raportul generat in data x arata rularea a 10 test caseuri dintre care 9 passed 
 ### 3.6 Test case results
 [tesx sau test case results](https://github.com/anettabako91/ProiectTestareManuala/blob/main/TES-46.pdf)
 
+la 3.3 zephyr test steps la export pdf - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
+
+3.6 execution si result la export pdf - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
+
+3.7 la fel - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
+
+3.8 schreenshot din dashboard
