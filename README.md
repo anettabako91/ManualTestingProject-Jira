@@ -34,3 +34,7 @@
 ### 1.2 Functionalities in scope
  - All the features of Admin module which were defined in OrangeHRM business requirements will be tested using the following testing types: functional testing, GUI testing, API testing. 
  - The OrangeHRM Web application will be tested on latest versions of Mozilla, Chrome, IE.
+
+### 3.4 Daily test summary report
+Raportul generat in data x arata rularea a 10 test caseuri dintre care 9 passed si 1 failed.
+
