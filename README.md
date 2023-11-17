@@ -61,7 +61,7 @@ Application under test:https://demo.opencart.com/admin/
 
 ### 2. Test process
 ### 2.1 Test planning
-###### Roles and responsibilities
+##### Roles and responsibilities
 
 | Name | Role |
 | :-----: | :---: |
@@ -69,7 +69,7 @@ Application under test:https://demo.opencart.com/admin/
 |George - Tester  | will test: Manually adding/modifying an order,Customer details,Payment details,Shipping details |
 |Dana - Senior tester | will test: Products,Vouchers,Printing invoices |
 
-###### Entry criteria:
+##### Entry criteria:
 - smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
 - testing environment is up and running
 - roles needed for the project are allocated
@@ -77,20 +77,62 @@ Application under test:https://demo.opencart.com/admin/
 - Test Data is prepared
 - The necessary equipment and software are installed for testing
 
-###### Exit criteria:
+##### Exit criteria:
 - 100% tests were executed and 95% are passed
-- No Critical issues have Open status (All remaining defects/bugs have low severity)
+- number of unresolved bugs is insignificant or they have low priority
+- no critical issues have Open status 
+- all resolved bugs have been re-tested and approved by the QA team
 - update tests are 100% passed (update tests will not generate other new issues that impact the application)
 - Exploratory testing was performed on Orders module -> subsection Add new order
+- deadline was reached
 
-###### Risks:
+##### Risks:
 - stability risks (crashes, disconnects, etc)
 - IE browser might have performance issues
 - the web page pagination could be impacted when opened on mobile devices
 - stress conditions might impact the web application
 - new browser might not be supported
 
-  
+### 2.2 Test analysis - MEG MI IDE????
+- Analyze the business requirements to make sure that we have all the details for creating the test conditions
+- We plan on running a full regression test on the current version
+
+### 2.3 Test design
+- defining the testing process
+- all the test cases are written and then examined
+- Jira will be used as test management tool
+- Zephyr squad will be used as a plugin for Jira
+
+### 2.4 Test implementation
+- all the test data is available and reviewed (an account with Admin Role was created, username demo, password demo)
+- testing environment is up and running
+- test suites are created (Cycle Summary was created)
+- this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
+
+### 2.5 Test execution
+- the tests will be executed on the following browsers: Chrome, Mozilla, IE if time will be available we will extend tests on Opera browsers
+- Bugs will be created based on the failed test cases
+- The full regression testing will be done after new application changes
+- Retesting will be done after a bug is fixed
+- The regression testing will be executed when a problem is solved
+- If the site will shut down, we will execute full retesting
+
+### 2.6 Test closure -- PONTOS SZAMOK!!!
+- ....
+- no Critical issues have Open status
+
+### 2.7 Test monitoring and control -- MI KELL IDE???
+- ...
+- ...
+- ...
+
+### 3 Test deliverables
+### 3.1 Test plan
+
+### 3.2 Test conditions
+
+### 3.3 Test cases
+la 3.3 zephyr test steps la export pdf - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
 
 ### 3.4 Daily test summary report
 Raportul generat in data x arata rularea a 10 test caseuri dintre care 9 passed si 1 failed.
@@ -99,13 +141,22 @@ Raportul generat in data x arata rularea a 10 test caseuri dintre care 9 passed 
 
 ![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20report%20adding%20a%20new%20order%20manually2.png)
 
+### 3.5 /traceability matrix
+
 ### 3.6 Test case results
 [tesx sau test case results](https://github.com/anettabako91/ProiectTestareManuala/blob/main/TES-46.pdf)
 
-la 3.3 zephyr test steps la export pdf - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
-
 3.6 execution si result la export pdf - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
+
+### 3.7 Bugs report
 
 3.7 la fel - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
 
+### 3.8 Test completion report
 3.8 schreenshot din dashboard
+
+### 3.9 Schedule
+- we have 9 days of testing
+- we have 35 test cases
+- in order to finish the regression run we would need to run an ~ of 4 tests/day
+
