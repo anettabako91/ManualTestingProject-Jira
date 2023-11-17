@@ -1,10 +1,11 @@
-# OrangeHRM Project
+# OpenCart - Orders
 ### Revision History
 
 | Date |Description  | Author  | Comments |
 | :-----: | :---: | :---: | :---: |
-| 05.09.2023 | Test Plan for version 1.0   | Alexandra Perja  | draft test plan |
-| 10.09.2023 | v1.1 | Andreea Popescu | Added more details for Test Process |
+| 08.09.2023 | Test Plan for version 1.0   | Dana Popescu  | draft test plan |
+| 11.09.2023 | version 1.1 | George Marin | Added more details for Test Process |
+| 25.09.2023 | version 1.2 | Ramona Chis | Added more details for Test Deliverables |
 
 ### Table of content
 1. Introduction
@@ -23,6 +24,11 @@
     1. Test plan
     2. Test conditions
     3. Test cases
+    4. Daily test summary reports
+    5. Traceability matrix
+    6. Test case results
+    7. Bugs report
+    8. Test completion report
 
   1. Introduction
     
