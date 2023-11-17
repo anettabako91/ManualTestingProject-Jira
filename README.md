@@ -62,6 +62,33 @@ Application under test:https://demo.opencart.com/admin/
 ### 2. Test process
 ### 2.1 Test planning
 Roles and responsibilities
+| :-----: | :---: |
+| Ramona - Tester  | will test: Viewing order details,Searching for an order |
+|George - Tester  | will test: Manually adding/modifying an order,Customer details,Payment details,Shipping details |
+|Dana - Senior tester | will test: Products,Vouchers,Printing invoices |
+
+Entry criteria:
+- smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+- testing environment is up and running
+- roles needed for the project are allocated
+- functional specifications are defined
+- Test Data is prepared
+- The necessary equipment and software are installed for testing
+
+  Exit criteria:
+- 100% tests were executed and 95% are passed
+- No Critical issues have Open status (All remaining defects/bugs have low severity)
+- update tests are 100% passed (update tests will not generate other new issues that impact the application)
+- Exploratory testing was performed on Orders module -> subsection Add new order
+
+  Risks:
+- stability risks (crashes, disconnects, etc)
+- IE browser might have performance issues
+- the web page pagination could be impacted when opened on mobile devices
+- stress conditions might impact the web application
+- new browser might not be supported
+
+  
 
 ### 3.4 Daily test summary report
 Raportul generat in data x arata rularea a 10 test caseuri dintre care 9 passed si 1 failed.
