@@ -54,10 +54,10 @@ Application under test:https://demo.opencart.com/admin/
  - The Administration OpenCart will be tested on latest versions of Mozilla, Chrome, IE.
 
 ### 1.3 Functionalities and test out of scope
-    - All the features that are not under Orders module 
-    - Non-functional testing like stress, performance is beyond scope of this project
-    - Automation testing is beyond scope
-    - No QA support for mobile applications developed. Only web applications will be tested.
+- All the features that are not under Orders module 
+- Non-functional testing like stress, performance is beyond scope of this project
+- Automation testing is beyond scope
+- No QA support for mobile applications developed. Only web applications will be tested.
 
 ### 2. Test process
 ### 2.1 Test planning
