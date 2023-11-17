@@ -61,13 +61,15 @@ Application under test:https://demo.opencart.com/admin/
 
 ### 2. Test process
 ### 2.1 Test planning
-Roles and responsibilities
+###### Roles and responsibilities
+
+| Name | Role |
 | :-----: | :---: |
 | Ramona - Tester  | will test: Viewing order details,Searching for an order |
 |George - Tester  | will test: Manually adding/modifying an order,Customer details,Payment details,Shipping details |
 |Dana - Senior tester | will test: Products,Vouchers,Printing invoices |
 
-Entry criteria:
+###### Entry criteria:
 - smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
 - testing environment is up and running
 - roles needed for the project are allocated
@@ -75,13 +77,13 @@ Entry criteria:
 - Test Data is prepared
 - The necessary equipment and software are installed for testing
 
-  Exit criteria:
+###### Exit criteria:
 - 100% tests were executed and 95% are passed
 - No Critical issues have Open status (All remaining defects/bugs have low severity)
 - update tests are 100% passed (update tests will not generate other new issues that impact the application)
 - Exploratory testing was performed on Orders module -> subsection Add new order
 
-  Risks:
+###### Risks:
 - stability risks (crashes, disconnects, etc)
 - IE browser might have performance issues
 - the web page pagination could be impacted when opened on mobile devices
