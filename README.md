@@ -32,28 +32,36 @@
 
 
 ### 1. Introduction
-    OpenCart is a free open source e-commerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.
-    This foundation Appeals to a wide variety of users; ranging from seasoned web developers looking for a user-friendly interface to use, to shop owners just launching their business online for the first time.
-    OpenCart has an extensive amount of features that gives you a strong hold over the customization of your store. With OpenCart's tools, you can help your online shop live up to its fullest potential.
-    When a customer goes through checkout, the information on their order is automatically transferred to the Orders section for you to keep track of it.
-    In the administration, you can view all of the orders made on their site, manually add orders, or edit the details of existing orders.
+   - OpenCart is a free open source e-commerce platform for online merchants.
+   - OpenCart provides a professional and reliable foundation from which to build a successful online store.
+   - This foundation Appeals to a wide variety of users; ranging from seasoned web developers looking for a user-friendly interface to use, to shop owners just launching their business online for the first time.
+   - OpenCart has an extensive amount of features that gives you a strong hold over the customization of your store.
+   - With OpenCart's tools, you can help your online shop live up to its fullest potential.
+   - When a customer goes through checkout, the information on their order is automatically transferred to the Orders section for you to keep track of it.
+   - In the administration, you can view all of the orders made on their site, manually add orders, or edit the details of existing orders.
 
-
-     1.1 Project Objective 
+### 1.1 Project Objective 
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 
 Application under test:https://demo.opencart.com/admin/ 
 
-Username: demo
-Password: demo
-
-            
-    1.2 Functionalities in scope
-
+- Username: demo
+- Password: demo
 
 ### 1.2 Functionalities in scope
- - All the features of Admin module which were defined in OrangeHRM business requirements will be tested using the following testing types: functional testing, GUI testing, API testing. 
- - The OrangeHRM Web application will be tested on latest versions of Mozilla, Chrome, IE.
+ - All the features of the “Orders” module in the menu defined in the business requirements for OpenCart Admin will be tested using the following type of testing:Functional testing,GUI testing,and API testing.
+
+ - The Administration OpenCart will be tested on latest versions of Mozilla, Chrome, IE.
+
+### 1.3 Functionalities and test out of scope
+    - All the features that are not under Orders module 
+    - Non-functional testing like stress, performance is beyond scope of this project
+    - Automation testing is beyond scope
+    - No QA support for mobile applications developed. Only web applications will be tested.
+
+### 2. Test process
+### 2.1 Test planning
+Roles and responsibilities
 
 ### 3.4 Daily test summary report
 Raportul generat in data x arata rularea a 10 test caseuri dintre care 9 passed si 1 failed.
