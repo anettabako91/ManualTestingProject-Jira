@@ -153,7 +153,8 @@ The report generated on 21 November 2023 shows that the last 10 test cases were 
 ![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20rep%20-%202023-11-21%20142059.png)
 ![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20rep%20-%202023-11-21%20142158.png)
 
-### 3.5 /traceability matrix
+### 3.5 Traceability matrix
+The traceability matrix was generated and can be found here: 
 
 ### 3.6 Test case results
 [tesx sau test case results](https://github.com/anettabako91/ProiectTestareManuala/blob/main/TES-46.pdf)
@@ -161,11 +162,15 @@ The report generated on 21 November 2023 shows that the last 10 test cases were 
 3.6 execution si result la export pdf - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
 
 ### 3.7 Bugs report
+A total number of 8 bugs were found, of which 6 are related to mandatory fields - they are not marked with stars as it is shown in documentation, or they are not considered mandatory.
 
 3.7 la fel - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
 
 ### 3.8 Test completion report
-3.8 schreenshot din dashboard
+Test execution chart was generated, the final report shows that a number of 8 tests out of 35 were failed, and one is work in progress.
+A number of 35 test cases were planned for execution and all of them were executed.
+
+![Test execution chart](https://github.com/anettabako91/ProiectTestareManuala/blob/main/dashboard.png)
 
 ### 3.9 Schedule
 - we have 9 days of testing
