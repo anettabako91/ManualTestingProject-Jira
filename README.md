@@ -78,7 +78,7 @@ Application under test:https://demo.opencart.com/admin/
 - The necessary equipment and software are installed for testing
 
 ##### Exit criteria:
-- 100% tests were executed and 95% are passed
+- 100% tests were executed 
 - number of unresolved bugs is insignificant or they have low priority
 - no critical issues have Open status 
 - all resolved bugs have been re-tested and approved by the QA team
@@ -132,10 +132,13 @@ Application under test:https://demo.opencart.com/admin/
 ### 3.2 Test conditions
 
 ### 3.3 Test cases
+- Test cases are designed to cover various scenarios and functionalities of the Guru99 application.
+- Each test case includes detailed steps, expected results, and preconditions.
+- There are 35 test cases
 la 3.3 zephyr test steps la export pdf - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
 
 ### 3.4 Daily test summary report
-Raportul generat in data x arata rularea a 10 test caseuri dintre care 9 passed si 1 failed.
+The daily report generated on 14 November 2023 shows the execution of 13 test cases of which 11 are passed , 1 failed, and 1 work in progress.
 
 ![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20report%20adding%20a%20new%20order%20manually.png)
 
