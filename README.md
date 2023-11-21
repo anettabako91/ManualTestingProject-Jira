@@ -140,9 +140,18 @@ la 3.3 zephyr test steps la export pdf - trebuie toate testele exportate pe urma
 ### 3.4 Daily test summary report
 The daily report generated on 14 November 2023 shows the execution of 13 test cases of which 11 are passed , 1 failed, and 1 work in progress.
 
-![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20report%20adding%20a%20new%20order%20manually.png)
+![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20rep%20-%202023-11-14%20111430.png)
+![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20rep%20-%202023-11-14%20111501.png)
 
-![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20report%20adding%20a%20new%20order%20manually2.png)
+On 17 November 2023 was executed a number of 12 test cases of which 7 are passed and 5 are failed.
+
+![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20rep%20-%202023-11-17.png)
+![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20rep%202023-11-17%20143745.png)
+
+The report generated on 21 November 2023 shows that the last 10 test cases were executed, 8 of them being passed and 2 failed.
+
+![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20rep%20-%202023-11-21%20142059.png)
+![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20rep%20-%202023-11-21%20142158.png)
 
 ### 3.5 /traceability matrix
 
