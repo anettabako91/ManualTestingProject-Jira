@@ -132,9 +132,10 @@ Application under test:https://demo.opencart.com/admin/
 ### 3.2 Test conditions
 
 ### 3.3 Test cases
-- Test cases are designed to cover various scenarios and functionalities of the Guru99 application.
+- Test cases are designed to cover different scenarios and functionalities of the OpenCart web application.
 - Each test case includes detailed steps, expected results, and preconditions.
 - There are 35 test cases
+  
 la 3.3 zephyr test steps la export pdf - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
 
 ### 3.4 Daily test summary report
