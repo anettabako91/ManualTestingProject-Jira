@@ -181,9 +181,7 @@ Application under test:https://demo.opencart.com/admin/
 ### 3.3 Test cases
 - Test cases are designed to cover different scenarios and functionalities of the OpenCart web application.
 - Each test case includes detailed steps, expected results, and preconditions.
-- There are 35 test cases
-  
-[TestCases](https://github.com/anettabako91/ProiectTestareManuala/blob/main/teststeps.pdf)
+- There are 35 [Test cases] and can be found here (https://github.com/anettabako91/ProiectTestareManuala/blob/main/teststeps.pdf)
 
 
 ### 3.4 Daily test summary report
@@ -212,16 +210,13 @@ The traceability matrix was generated and can be found here:
 
 
 ### 3.6 Test case results
-[Test case results](https://github.com/anettabako91/ProiectTestareManuala/blob/main/test%20execution%20and%20results.pdf)
-
-- here is a list of all the test cases created, along with their results
+[Test case results](https://github.com/anettabako91/ProiectTestareManuala/blob/main/test%20execution%20and%20results.pdf) - here is a list of all the test cases created, along with their results
 - these test cases cover various aspects of the project and are used to assess its correctness and performance for the functionalities: "orders" , "adding manually a new order"
 
 
 ### 3.7 Bugs report
 A total number of 8 bugs were found, of which 6 are related to mandatory fields - they are not marked with stars as it is shown in documentation, or they are not considered mandatory.
-
-[Bugs report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/bugs.pdf)
+All the bugs can be found in this [Bugs report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/bugs.pdf)
 
 ### 3.8 Test completion report
 Test execution chart was generated, the final report shows that a number of 8 tests out of 35 were failed, and one is work in progress.
