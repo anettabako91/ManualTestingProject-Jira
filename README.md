@@ -202,6 +202,7 @@ The report generated on 21 November 2023 shows that the last 10 test cases were 
 
 ### 3.5 Traceability matrix
 The traceability matrix was generated and can be found here: 
+[TraceabilityMatrix](https://github.com/anettabako91/ProiectTestareManuala/blob/main/Forward%20Traceability_5_1_2024.xlsx)
 
 ### 3.6 Test case results
 [tesx sau test case results](https://github.com/anettabako91/ProiectTestareManuala/blob/main/TES-46.pdf)
