@@ -139,7 +139,7 @@ Application under test:https://demo.opencart.com/admin/
  - testing using new accounts and older account is necessary
 
  - there are a total number of 35 test conditions which shows us all the details about testing the OpenCart application - Orders section
- - you can find details about the project and test conditions on pages 1-4 (https://github.com/anettabako91/ProiectTestareManuala/blob/main/Zephyr%20Test%20Steps%20(Jira).pdf)
+ - you can find details about the project and test conditions on pages 1-4 in this [Jira project](https://github.com/anettabako91/ProiectTestareManuala/blob/main/Zephyr%20Test%20Steps%20(Jira).pdf)
 
  - Verify that an error message appears when the first name and last name field are completed with numbers and special characters
  - Verify that a pre-existing order can be modified by clicking on the View button under Action
