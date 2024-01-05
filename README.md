@@ -204,10 +204,17 @@ The report generated on 21 November 2023 shows that the last 10 test cases were 
 The traceability matrix was generated and can be found here: 
 [TraceabilityMatrix](https://github.com/anettabako91/ProiectTestareManuala/blob/main/Forward%20Traceability_5_1_2024.xlsx)
 
-### 3.6 Test case results
-[tesx sau test case results](https://github.com/anettabako91/ProiectTestareManuala/blob/main/TES-46.pdf)
+- Regular updates to the Traceability matrix help maintain transparency and alignment between testing and project objectives throughout the test life cycle
+- The matrix indicates the current status of each test case, helping to monitor the testing process and identify any gaps or missing coverage
+- The matrix can be used for compliance purposes and to demonstrate that all requirements have been adequately tested and verified
 
-3.6 execution si result la export pdf - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
+
+### 3.6 Test case results
+[Test case results](https://github.com/anettabako91/ProiectTestareManuala/blob/main/test%20execution%20and%20results.pdf)
+
+- here is a list of all the test cases created, along with their results
+- these test cases cover various aspects of the project and are used to assess its correctness and performance for the functionalities: "orders" , "adding manually a new order"
+
 
 ### 3.7 Bugs report
 A total number of 8 bugs were found, of which 6 are related to mandatory fields - they are not marked with stars as it is shown in documentation, or they are not considered mandatory.
