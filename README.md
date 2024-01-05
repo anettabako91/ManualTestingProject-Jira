@@ -181,7 +181,7 @@ Application under test:https://demo.opencart.com/admin/
 ### 3.3 Test cases
 - Test cases are designed to cover different scenarios and functionalities of the OpenCart web application.
 - Each test case includes detailed steps, expected results, and preconditions.
-- There are 35 [Test cases] and can be found here (https://github.com/anettabako91/ProiectTestareManuala/blob/main/teststeps.pdf)
+- There are 35 test cases and can be found here: [test cases](https://github.com/anettabako91/ProiectTestareManuala/blob/main/teststeps.pdf)
 
 
 ### 3.4 Daily test summary report
