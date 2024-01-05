@@ -180,9 +180,9 @@ Application under test:https://demo.opencart.com/admin/
 - Test cases are designed to cover different scenarios and functionalities of the OpenCart web application.
 - Each test case includes detailed steps, expected results, and preconditions.
 - There are 35 test cases
-![teststeps](https://github.com/anettabako91/ProiectTestareManuala/blob/main/teststeps.pdf)
   
-la 3.3 zephyr test steps la export pdf - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
+![teststeps](https://github.com/anettabako91/ProiectTestareManuala/blob/main/teststeps.pdf)
+
 
 ### 3.4 Daily test summary report
 The daily report generated on 14 November 2023 shows the execution of 13 test cases of which 11 are passed , 1 failed, and 1 work in progress.
