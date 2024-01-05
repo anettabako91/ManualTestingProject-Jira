@@ -181,7 +181,7 @@ Application under test:https://demo.opencart.com/admin/
 - Each test case includes detailed steps, expected results, and preconditions.
 - There are 35 test cases
   
-![teststeps](https://github.com/anettabako91/ProiectTestareManuala/blob/main/teststeps.pdf)
+[TestCases](https://github.com/anettabako91/ProiectTestareManuala/blob/main/teststeps.pdf)
 
 
 ### 3.4 Daily test summary report
