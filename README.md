@@ -139,6 +139,8 @@ Application under test:https://demo.opencart.com/admin/
  - testing using new accounts and older account is necessary
 
  - there are a total number of 35 test conditions which shows us all the details about testing the OpenCart application - Orders section
+ - you can find details about the project and test conditions on pages 1-4 (https://github.com/anettabako91/ProiectTestareManuala/blob/main/Zephyr%20Test%20Steps%20(Jira).pdf)
+
  - Verify that an error message appears when the first name and last name field are completed with numbers and special characters
  - Verify that a pre-existing order can be modified by clicking on the View button under Action
  - Verify that the button under the Action has the EDIT meaning when holding the mouse on it
@@ -219,7 +221,7 @@ The traceability matrix was generated and can be found here:
 ### 3.7 Bugs report
 A total number of 8 bugs were found, of which 6 are related to mandatory fields - they are not marked with stars as it is shown in documentation, or they are not considered mandatory.
 
-3.7 la fel - trebuie toate testele exportate pe urma se face "merge" si se incarca un singur fisier
+[Bugs report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/bugs.pdf)
 
 ### 3.8 Test completion report
 Test execution chart was generated, the final report shows that a number of 8 tests out of 35 were failed, and one is work in progress.
