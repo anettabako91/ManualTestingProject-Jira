@@ -139,44 +139,7 @@ Application under test:https://demo.opencart.com/admin/
  - testing using new accounts and older account is necessary
 
  - there are a total number of 35 test conditions which shows us all the details about testing the OpenCart application - Orders section
- - you can find details about the project and test conditions on pages 1-4 in this [Jira project](https://github.com/anettabako91/ProiectTestareManuala/blob/main/Zephyr%20Test%20Steps%20(Jira).pdf)
-
- - Verify that an error message appears when the first name and last name field are completed with numbers and special characters
- - Verify that a pre-existing order can be modified by clicking on the View button under Action
- - Verify that the button under the Action has the EDIT meaning when holding the mouse on it
- - Verify that every order ever made from the store is listed in detail when entering in the orders section
- - Verify that there is an option to edit, insert, delete, search, or print an invoice of an order
- - Verify that the + button in the right corner of the Orders page has the insert meaning when holding the mouse on it
- - Verify that the Confirm button is working and an order can be added if all the details are completed correctly
- - Verify that the telephone field is considered as mandatory, as it is shown in documentation, and an error message appears if it is left empty
- - Verify that the gift certificate theme drop down field has all the possible options
- - Verify that an error message appears and the voucher cannot be added if all the mandatory fields are left empty
- - Verify that all the mandatory fields are marked with stars on the Add Voucher page, as shown in documentation
- - Verify that a product can be deleted by clicking on the - under the Action
- - Verify that an error message appears if the amount is completed with more than 1000000$
- - Verify that an error message appears if the recipient's e-mail or/and sender's e-mail are filled with an invalid address
- - Verify that an error message appears if the recipient's name or/and sender's name are filled with more than 64 characters
- - Verify that a voucher can be added on the Add Item page
- - Verify that an error message appears if the specific product options are not chosen
- - Verify that a product can be added on the Add Item page
- - Verify that the Add Item page is loaded by clicking on the + button under the Action
- - Verify that customer details can be saved if all the mandatory fields are completed correctly
- - Verify that an error message appears when the first name and last name field are completed with more than 32 characters
- - Verify that an error message appears when the e-mail field is not completed with a valid address
- - Verify that customer details cannot be saved if the mandatory fields are left empty
- - Verify that details about customer can be added and the mandatory fields are marked with stars
- - Verify that the Add order page is loaded when pressing the Add new button
- - Verify that an error message appears if the Shipping Method and Payment Method are not selected
- - Verify that the Payment Method drop down is working and an option can be selected
- - Verify that the Shipping Method drop down is working and an option can be selected
- - Verify that an error message appears when the mandatory fields are left empty on the Shipping Address page
- - Verify that all the mandatory fields are marked with * on the Shipping Address page, as it is shown in documentation
- - Verify that the Shipping Address page is loaded by clicking on the button near the Shipping Address
- - Verify that the Country and Region/State drop down is working and has all the possible options
- - Verify that the postcode field is considered mandatory,as it is shown in documentation, and an error message appears if it is left empty
- - Verify that all the mandatory fields are marked with * on the Payment Address page, as it is shown in documentation
- - Verify that the Payment Address page is loaded by clicking on the button near the Payment Address
-
+ - you can find details about the project and test conditions on pages 1-4 in this [Jira project](https://github.com/anettabako91/ProiectTestareManuala/blob/main/Zephyr%20Test%20Steps%20(Jira).pdf) or you can check all the test conditions [here](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/test%20conditions%20-%20excel.xlsx)
 
 ### 3.3 Test cases
 - Test cases are designed to cover different scenarios and functionalities of the OpenCart web application.
