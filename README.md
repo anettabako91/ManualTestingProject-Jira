@@ -3,9 +3,9 @@
 
 | Date |Description  | Author  | Comments |
 | :-----: | :---: | :---: | :---: |
-| 08.09.2023 | Test Plan for version 1.0   | Dana Popescu  | draft test plan |
-| 11.09.2023 | version 1.1 | George Marin | Added more details for Test Process |
-| 25.09.2023 | version 1.2 | Ramona Chis | Added more details for Test Deliverables |
+| 08.09.2023 | Test Plan for version 1.0   | Anetta Bako  | draft test plan |
+| 11.09.2023 | version 1.1 | Anetta Bako | Added more details for Test Process |
+| 25.09.2023 | version 1.2 | Anetta Bako | Added more details for Test Deliverables |
 
 ### Table of content
 1. Introduction
@@ -61,21 +61,21 @@ Application under test:https://demo.opencart.com/admin/
 
 ### 2. Test process
 ### 2.1 Test planning
-##### Roles and responsibilities
+##### Roles and responsabilities
 
 | Name | Role |
 | :-----: | :---: |
-| Ramona - Tester  | will test: Viewing order details,Searching for an order |
-|George - Tester  | will test: Manually adding/modifying an order,Customer details,Payment details,Shipping details |
-|Dana - Senior tester | will test: Products,Vouchers,Printing invoices |
+| Anetta Bako - Junior Tester  | will test: Viewing order details,Searching for an order |
+| Anetta Bako - Junior Tester  | will test: Manually adding/modifying an order,Customer details,Payment details,Shipping details |
+| Anetta Bako - Junior Tester | will test: Products,Vouchers,Printing invoices |
 
 ##### Entry criteria:
-- smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
-- testing environment is up and running
+*- smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+*- testing environment is up and running
 - roles needed for the project are allocated
 - functional specifications are defined
-- Test Data is prepared
-- The necessary equipment and software are installed for testing
+*- Test Data is prepared
+*- The necessary equipment and software are installed for testing
 
 ##### Exit criteria:
 - 100% tests were executed 
@@ -96,7 +96,7 @@ Application under test:https://demo.opencart.com/admin/
 ### 2.2 Test analysis 
 - Analyze the business requirements to make sure that we have all the details for creating the test conditions
 - Write the test conditions  
-- Plan on running a full regression test on the current version
+*- Plan on running a full regression test on the current version
 - Identify the functional requirements for each functionality, including what data can be modified, what data can be deleted, and what data about new order can be added
 
 ### 2.3 Test design
@@ -109,7 +109,7 @@ Application under test:https://demo.opencart.com/admin/
 - all the test data is available and reviewed (an account with Admin Role was created, username demo, password demo)
 - testing environment is up and running
 - test suites are created (Cycle Summary was created)
-- this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
+*- this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
 
 ### 2.5 Test execution
 - the tests will be executed on the following browsers: Chrome, Mozilla, IE if time will be available we will extend tests on Opera browsers
@@ -165,7 +165,7 @@ The report generated on 21 November 2023 shows that the last 10 test cases were 
 
 ### 3.5 Traceability matrix
 The traceability matrix was generated and can be found here: 
-[TraceabilityMatrix](https://github.com/anettabako91/ProiectTestareManuala/blob/main/Forward%20Traceability_5_1_2024.xlsx)
+[TraceabilityMatrix](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Forward%20Traceability_26_1_2024.xlsx)
 
 - Regular updates to the Traceability matrix help maintain transparency and alignment between testing and project objectives throughout the test life cycle
 - The matrix indicates the current status of each test case, helping to monitor the testing process and identify any gaps or missing coverage
