@@ -70,12 +70,9 @@ Application under test:https://demo.opencart.com/admin/
 | Anetta Bako - Junior Tester | will test: Products,Vouchers,Printing invoices |
 
 ##### Entry criteria:
-*- smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
-*- testing environment is up and running
+
 - roles needed for the project are allocated
-- functional specifications are defined
-*- Test Data is prepared
-*- The necessary equipment and software are installed for testing
+- functional specifications are defined - business requirements are finalized
 
 ##### Exit criteria:
 - 100% tests were executed 
@@ -96,7 +93,6 @@ Application under test:https://demo.opencart.com/admin/
 ### 2.2 Test analysis 
 - Analyze the business requirements to make sure that we have all the details for creating the test conditions
 - Write the test conditions  
-*- Plan on running a full regression test on the current version
 - Identify the functional requirements for each functionality, including what data can be modified, what data can be deleted, and what data about new order can be added
 
 ### 2.3 Test design
@@ -109,7 +105,6 @@ Application under test:https://demo.opencart.com/admin/
 - all the test data is available and reviewed (an account with Admin Role was created, username demo, password demo)
 - testing environment is up and running
 - test suites are created (Cycle Summary was created)
-*- this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
 
 ### 2.5 Test execution
 - the tests will be executed on the following browsers: Chrome, Mozilla, IE if time will be available we will extend tests on Opera browsers
@@ -117,7 +112,7 @@ Application under test:https://demo.opencart.com/admin/
 - The full regression testing will be done after new application changes
 - Retesting will be done after a bug is fixed
 - The regression testing will be executed when a problem is solved
-- If the site will shut down, we will execute full retesting
+- If the site will shut down, we will execute full retesting - mai bine risc de produs - sanity testing mai bine aici
 
 ### 2.6 Test closure 
 - all the 35 tests were executed, 26 of them, which means 74.29% , were passed
@@ -132,22 +127,18 @@ Application under test:https://demo.opencart.com/admin/
 - Reprioritize the test case and conditions
 
 ### 3 Test deliverables
-### 3.1 Test plan
 
-### 3.2 Test conditions
- -  we will use prod environment
- - testing using new accounts and older account is necessary
-
+### 3.1 Test conditions 
  - there are a total number of 35 test conditions which shows us all the details about testing the OpenCart application - Orders section
- - you can find details about the project and test conditions on pages 1-4 in this [Jira project](https://github.com/anettabako91/ProiectTestareManuala/blob/main/Zephyr%20Test%20Steps%20(Jira).pdf) or you can check all the test conditions [here](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/test%20conditions%20-%20excel.xlsx)
+ - you can find details about the project and test conditions on pages 1-4 in this [Jira project](https://github.com/anettabako91/ProiectTestareManuala/blob/main/Zephyr%20Test%20Steps%20(Jira).pdf) or you can check all the test conditions [here](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/test_conditions_new.xlsx)
 
-### 3.3 Test cases
+### 3.2 Test cases
 - Test cases are designed to cover different scenarios and functionalities of the OpenCart web application.
 - Each test case includes detailed steps, expected results, and preconditions.
-- There are 35 test cases and can be found here: [test cases](https://github.com/anettabako91/ProiectTestareManuala/blob/main/teststeps.pdf)
+- There are 35 test cases and the steps of them can be found here: [test cases](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/test_steps.pdf)
 
 
-### 3.4 Daily test summary report
+### 3.3 Daily test summary report
 The daily report generated on 14 November 2023 shows the execution of 13 test cases of which 11 are passed , 1 failed, and 1 work in progress.
 
 ![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20rep%20-%202023-11-14%20111430.png)
@@ -163,25 +154,25 @@ The report generated on 21 November 2023 shows that the last 10 test cases were 
 ![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20rep%20-%202023-11-21%20142059.png)
 ![Daily report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/daily%20rep%20-%202023-11-21%20142158.png)
 
-### 3.5 Traceability matrix
+### 3.4 Traceability matrix
 The traceability matrix was generated and can be found here: 
-[TraceabilityMatrix](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Forward%20Traceability_26_1_2024.xlsx)
+[TraceabilityMatrix](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Traceability_new.xlsx)
 
 - Regular updates to the Traceability matrix help maintain transparency and alignment between testing and project objectives throughout the test life cycle
 - The matrix indicates the current status of each test case, helping to monitor the testing process and identify any gaps or missing coverage
 - The matrix can be used for compliance purposes and to demonstrate that all requirements have been adequately tested and verified
 
 
-### 3.6 Test case results
-[Test case results](https://github.com/anettabako91/ProiectTestareManuala/blob/main/test%20execution%20and%20results.pdf) - here is a list of all the test cases created, along with their results
+### 3.5 Test case results
+[Test case results](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/test_execution_and_results.pdf) - here is a list of all the test cases created, along with their results
 - these test cases cover various aspects of the project and are used to assess its correctness and performance for the functionalities: "orders" , "adding manually a new order"
 
 
-### 3.7 Bugs report
-A total number of 8 bugs were found, of which 6 are related to mandatory fields - they are not marked with stars as it is shown in documentation, or they are not considered mandatory.
-All the bugs can be found in this [Bugs report](https://github.com/anettabako91/ProiectTestareManuala/blob/main/bugs.pdf)
+### 3.6 Bugs report
+A total number of 4 bugs were found, of which 1 is related to 4 different test codition (ABT-49 - relates to ABT-24, ABT-28, ABT-5, ABT-19) and one of them relates to two test conditions (ABT-50 relates to ABT-25 and ABT-22) and both of them are related to mandatory fields - they are not marked with stars as it is shown in documentation, or they are not considered mandatory.
+All the bugs can be found in this [Bugs report](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/bugs_report.pdf)
 
-### 3.8 Test completion report
+### 3.8 Test execution report
 Test execution chart was generated, the final report shows that a number of 8 tests out of 35 were failed, and one is work in progress.
 A number of 35 test cases were planned for execution and all of them were executed.
 
