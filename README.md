@@ -130,7 +130,7 @@ Application under test:https://demo.opencart.com/admin/
 
 ### 3.1 Test conditions 
  - there are a total number of 35 test conditions which shows us all the details about testing the OpenCart application - Orders section
- - you can find details about the project and test conditions on pages 1-4 in this [Jira project](https://github.com/anettabako91/ProiectTestareManuala/blob/main/Zephyr%20Test%20Steps%20(Jira).pdf) or you can check all the test conditions [here](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/test_conditions_new.xlsx)
+ - you can find details about the project and test conditions on pages 1-4 in this [Jira project](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf) or you can check all the test conditions [here](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/test_conditions_new.xlsx)
 
 ### 3.2 Test cases
 - Test cases are designed to cover different scenarios and functionalities of the OpenCart web application.
@@ -169,7 +169,7 @@ The traceability matrix was generated and can be found here:
 
 
 ### 3.6 Bugs report
-A total number of 4 bugs were found, of which 1 is related to 4 different test codition (ABT-49 - relates to ABT-24, ABT-28, ABT-5, ABT-19) and one of them relates to two test conditions (ABT-50 relates to ABT-25 and ABT-22) and both of them are related to mandatory fields - they are not marked with stars as it is shown in documentation, or they are not considered mandatory.
+A total number of 4 bugs were found, of which 1 is related to 4 different test codition (ABT-49 - relates to ABT-24, ABT-28, ABT-5, ABT-19) and one of them relates to two test conditions (ABT-50 relates to ABT-25 and ABT-22) and both of them are related to mandatory fields - they are not marked with stars as it is shown in documentation, or they are not considered mandatory.\
 All the bugs can be found in this [Bugs report](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/bugs_report.pdf)
 
 ### 3.8 Test execution report
