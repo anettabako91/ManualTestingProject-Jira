@@ -128,8 +128,7 @@ Application under test:https://demo.opencart.com/admin/
 
 ### 3.1 Test conditions 
  - there are a total number of 35 test conditions which shows us all the details about testing the OpenCart application - Orders section
- - you can find details about the project and test conditions on pages 1-4 in this [Jira project](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf) or you can check all the test conditions [here](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/test_conditions_new.xlsx)
-
+ - you can find details about the project and test conditions on pages 1-4 in this [Jira project](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf) or you can check all the test conditions [here](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Test_conditions.xlsx)
 ### 3.2 Test cases
 - Test cases are designed to cover different scenarios and functionalities of the OpenCart web application.
 - Each test case includes detailed steps, expected results, and preconditions.
