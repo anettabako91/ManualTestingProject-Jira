@@ -112,7 +112,6 @@ Application under test:https://demo.opencart.com/admin/
 - The full regression testing will be done after new application changes
 - Retesting will be done after a bug is fixed
 - The regression testing will be executed when a problem is solved
-- If the site will shut down, we will execute full retesting - mai bine risc de produs - sanity testing mai bine aici
 
 ### 2.6 Test closure 
 - all the 35 tests were executed, 26 of them, which means 74.29% , were passed
