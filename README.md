@@ -71,6 +71,7 @@ Application under test:https://demo.opencart.com/admin/
 ##### Entry criteria:
 
 - roles needed for the project are allocated
+- risks of the project are identified
 - functional specifications are defined - business requirements are finalized
 
 ##### Exit criteria:
