@@ -129,6 +129,8 @@ Application under test:https://demo.opencart.com/admin/
 
 ### 3.1 Test conditions 
  - there are a total number of 35 test conditions which shows us all the details about testing the OpenCart application - Orders section
+   ![orders_story](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/orders%20story.png)
+   
  - you can find details about the project and test conditions on pages 1-4 in this [Jira project](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf) or you can check all the test conditions [here](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Test_conditions.xlsx)
    ![testconditions](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/testconditions1.png)
    ![testconditions](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/testconditions2.png)
@@ -174,13 +176,13 @@ The traceability matrix was generated and can be found here:
 A total number of 4 bugs were found, of which 1 is related to 4 different test codition (ABT-49 - relates to ABT-24, ABT-28, ABT-5, ABT-19) and one of them relates to two test conditions (ABT-50 relates to ABT-25 and ABT-22) and both of them are related to mandatory fields - they are not marked with stars as it is shown in documentation, or they are not considered mandatory.\
 All the bugs can be found in this [Bugs report](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/bugs_report.pdf)
 
-### 3.8 Test execution report
+### 3.7 Test execution report
 Test execution chart was generated, the final report shows that a number of 8 tests out of 35 were failed, and one is work in progress.
 A number of 35 test cases were planned for execution and all of them were executed.
 
 ![Test execution chart](https://github.com/anettabako91/ProiectTestareManuala/blob/main/dashboard.png)
 
-### 3.9 Schedule
+### 3.8 Schedule
 - we have 9 days of testing
 - we have 35 test cases
 - in order to finish the regression run we would need to run an ~ of 4 tests/day
