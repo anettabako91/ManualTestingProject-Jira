@@ -130,6 +130,9 @@ Application under test:https://demo.opencart.com/admin/
 ### 3.1 Test conditions 
  - there are a total number of 35 test conditions which shows us all the details about testing the OpenCart application - Orders section
  - you can find details about the project and test conditions on pages 1-4 in this [Jira project](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf) or you can check all the test conditions [here](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Test_conditions.xlsx)
+   ![testconditions](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/testconditions1.png)
+   ![testconditions](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/testconditions2.png)
+   
 ### 3.2 Test cases
 - Test cases are designed to cover different scenarios and functionalities of the OpenCart web application.
 - Each test case includes detailed steps, expected results, and preconditions.
@@ -155,6 +158,7 @@ The report generated on 21 November 2023 shows that the last 10 test cases were 
 ### 3.4 Traceability matrix
 The traceability matrix was generated and can be found here: 
 [TraceabilityMatrix](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Traceability_new.xlsx)
+![traceabilitymatrix](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Screenshot%202024-03-25%20153520.png)
 
 - Regular updates to the Traceability matrix help maintain transparency and alignment between testing and project objectives throughout the test life cycle
 - The matrix indicates the current status of each test case, helping to monitor the testing process and identify any gaps or missing coverage
@@ -180,4 +184,12 @@ A number of 35 test cases were planned for execution and all of them were execut
 - we have 9 days of testing
 - we have 35 test cases
 - in order to finish the regression run we would need to run an ~ of 4 tests/day
+
+### Conclusions
+Following the testing, here are the general conclusions:
+
+- A total of 35 tests were written and executed.
+- 4 bugs were identified in total, out of which two are related to multiple testing conditions.
+- Although the found defects are not of high severity, they do not meet the business requirements and are considered high priority.
+- The identified defects affect compliance with the specifications and may have a significant impact on the end user.
 
