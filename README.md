@@ -51,6 +51,10 @@ Application under test:https://demo.opencart.com/admin/
  - All the features of the “Orders” module in the menu defined in the business requirements for OpenCart Admin will be tested using the following type of testing:Functional testing,GUI testing,and API testing.
 
  - The Administration OpenCart will be tested on latest versions of Mozilla, Chrome, IE.
+ -   details about Orders module can be found here:
+    ![orders_story](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/orders%20story.png)
+
+ - or [here](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/ABT-2%20(1).pdf) 
 
 ### 1.3 Functionalities and test out of scope
 - All the features that are not under Orders module 
@@ -129,8 +133,7 @@ Application under test:https://demo.opencart.com/admin/
 
 ### 3.1 Test conditions 
  - there are a total number of 35 test conditions which shows us all the details about testing the OpenCart application - Orders section
-   ![orders_story](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/orders%20story.png)
-   
+
  - you can find details about the project and test conditions on pages 1-4 in this [Jira project](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf) or you can check all the test conditions [here](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/Test_conditions.xlsx)
    ![testconditions](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/testconditions1.png)
    ![testconditions](https://github.com/anettabako91/ManualTestingProject-Jira/blob/main/testconditions2.png)
